@@ -23,7 +23,9 @@ Este projeto consiste na criação de uma landing page inspirada no universo de 
 
 
 
-## Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/gucha36/Construindo-uma-Landing-Page-no-Mundo-Invertido-com-HTML-e-CSS.git
+## Confira o resultado clicando na imagem
+
+   
+<a href="https://www.figma.com/proto/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?page-id=0%3A1&node-id=3-64&node-type=canvas&viewport=-25%2C188%2C0.18&t=kHdOkLjV95FCngJK-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A64">
+    <img src="https://www.pngall.com/wp-content/uploads/3/Stranger-Things-PNG-File.png" alt="Visualizar Projeto" width="300" >
+</a>
